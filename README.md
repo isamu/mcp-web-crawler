@@ -1,3 +1,7 @@
+# simple mcp web crawler
+
+## claude_desktop_config.json
+
 ```
 "webcrawler": {
   "command": "npx",
@@ -8,3 +12,4 @@
     "stdio": true
   }
 }
+```

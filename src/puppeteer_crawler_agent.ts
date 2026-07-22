@@ -77,4 +77,3 @@ export const fetchArticle = async (url: string): Promise<Article> => {
     await browser.close().catch(() => {});
   }
 };
-
